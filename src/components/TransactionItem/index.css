@@ -1,0 +1,21 @@
+.transactionItem-details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: solid 1px #7e858e;
+  border-radius: 5px;
+}
+.delete-image {
+  height: 20px;
+  width: 20px;
+}
+.transaction-heading-details {
+  color: #7e858e;
+  font-family: 'roboto';
+  font-size: 15px;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
